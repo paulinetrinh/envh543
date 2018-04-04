@@ -1,1 +1,1 @@
-# envh543
+# ENVH 543: Quantitative Microbial Risk Assessment 
